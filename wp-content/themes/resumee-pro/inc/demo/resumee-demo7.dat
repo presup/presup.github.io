@@ -1,0 +1,13 @@
+a:4:{s:8:"template";s:11:"resumee-pro";s:4:"mods";a:3:{s:18:"custom_css_post_id";i:14;s:16:"header_textcolor";s:5:"blank";s:16:"background_color";s:6:"f2f2f2";}s:7:"options";a:20:{s:9:"site_icon";s:1:"0";s:23:"resumee[nav_icon_color]";s:4:"#333";s:23:"resumee[nav_background]";s:4:"#fff";s:24:"resumee[head_transparet]";s:1:"1";s:23:"resumee[fp_instruction]";s:0:"";s:25:"resumee[body_font_family]";s:31:"Open Sans Condensed, sans-serif";s:25:"resumee[body_line_height]";s:3:"1.7";s:23:"resumee[body_font_size]";s:2:"19";s:15:"resumee[svgimg]";s:6:"twenty";s:21:"resumee[svgforecolor]";s:7:"#a5a5a5";s:19:"resumee[svgopacity]";s:4:"0.06";s:12:"colophon_txt";s:59:"Contact : Seasame Street, 1st Floor San Francisco, CA 12345";s:27:"resumee[colophon_txt_color]";s:4:"#333";s:24:"resumee[footer_bg_color]";s:4:"#fff";s:20:"resumee[hide_credit]";s:0:"";s:20:"resumee[scrolltopbg]";s:7:"#00016b";s:22:"resumee[scrolltopicon]";s:7:"#f7f7f7";s:24:"resumee[scrolltopborder]";s:2:"16";s:26:"resumee[footer_transparet]";s:1:"1";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:453:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+#skill_projects2_widget-3 .wrap img {filter:none;}
+.boxzilla-content .pro {color:#fff;}
+.boxzilla-content {text-transform:uppercase;color:#999;}
+.pro {text-decoration:none;background:red;padding:10px;border-radius: 2px;}
+.boxzilla-content>:last-child {font-size:12px;}
+#colophon .site-info {float:none;}
+#colophon .footer_address {float:none;}
+#colophon {text-align:center;}";}
