@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://xn--ris-qlac.fi/sitemap.xml
+Sitemap: https://xn--ris-qlac.fi/wp-sitemap.xml
